@@ -1,3 +1,3 @@
 # twitter-service
 
-personal twitter account management service
+a service for collecting personal twitter information
