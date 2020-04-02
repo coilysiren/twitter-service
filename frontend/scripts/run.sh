@@ -4,4 +4,4 @@
 set -euo pipefail
 set -o xtrace
 
-echo "run frontend"
+npm run start

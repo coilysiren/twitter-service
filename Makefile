@@ -5,5 +5,6 @@ help: # automatically documents the makefile, by outputing everything behind a #
 
 run: ## run frontend and backend
 	npx concurrently \
+		--names backend,frontend \
 		"cd ./backend; ./scripts/run.sh" \
 		"cd ./frontend; ./scripts/run.sh"

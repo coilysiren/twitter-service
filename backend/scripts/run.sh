@@ -4,4 +4,4 @@
 set -euo pipefail
 set -o xtrace
 
-echo "run backend"
+go run main.go
