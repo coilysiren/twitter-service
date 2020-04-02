@@ -1,3 +1,3 @@
-# twitter-stats
+# twitter-service
 
-twitter stats server v3
+personal twitter account management service
